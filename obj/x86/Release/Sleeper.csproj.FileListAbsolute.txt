@@ -1,0 +1,7 @@
+C:\Users\Zj\Documents\Programming\Sleeper\Sleeper\Sleeper\bin\Release\Sleeper.exe
+C:\Users\Zj\Documents\Programming\Sleeper\Sleeper\Sleeper\bin\Release\Sleeper.pdb
+C:\Users\Zj\Documents\Programming\Sleeper\Sleeper\Sleeper\obj\x86\Release\Sleeper.frmSleeper.resources
+C:\Users\Zj\Documents\Programming\Sleeper\Sleeper\Sleeper\obj\x86\Release\Sleeper.Properties.Resources.resources
+C:\Users\Zj\Documents\Programming\Sleeper\Sleeper\Sleeper\obj\x86\Release\Sleeper.csproj.GenerateResource.Cache
+C:\Users\Zj\Documents\Programming\Sleeper\Sleeper\Sleeper\obj\x86\Release\Sleeper.exe
+C:\Users\Zj\Documents\Programming\Sleeper\Sleeper\Sleeper\obj\x86\Release\Sleeper.pdb

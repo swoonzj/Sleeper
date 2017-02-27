@@ -1,0 +1,8 @@
+C:\Users\Zj\Documents\Programming\Sleeper\Sleeper\Sleeper\bin\Debug\Sleeper.exe
+C:\Users\Zj\Documents\Programming\Sleeper\Sleeper\Sleeper\bin\Debug\Sleeper.pdb
+C:\Users\Zj\Documents\Programming\Sleeper\Sleeper\Sleeper\obj\x86\Debug\Sleeper.frmSleeper.resources
+C:\Users\Zj\Documents\Programming\Sleeper\Sleeper\Sleeper\obj\x86\Debug\Sleeper.Properties.Resources.resources
+C:\Users\Zj\Documents\Programming\Sleeper\Sleeper\Sleeper\obj\x86\Debug\Sleeper.csproj.GenerateResource.Cache
+C:\Users\Zj\Documents\Programming\Sleeper\Sleeper\Sleeper\obj\x86\Debug\Sleeper.exe
+C:\Users\Zj\Documents\Programming\Sleeper\Sleeper\Sleeper\obj\x86\Debug\Sleeper.pdb
+C:\Users\Zj\Documents\Programming\Sleeper\Sleeper\Sleeper\obj\x86\Debug\Sleeper.csprojResolveAssemblyReference.cache
